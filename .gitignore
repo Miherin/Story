@@ -1,0 +1,8 @@
+.DS_Store
+secrets.txt
+chapter1.txt
+chapter2.txt
+chapter3.txt
+# Log files to be ignored
+# * is a wild card. Ignores everything with any determined extension.
+*.log
